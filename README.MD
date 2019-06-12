@@ -76,3 +76,6 @@ What Platforms does it support?
   \*Currently in Development  
   \*\*Planned  
 </sub></sup>
+
+
+Michael Reinemann says "hello" and "you're a genius" :-)
